@@ -30,7 +30,7 @@ run('git clean -fdx', check=True)
 
 print('拷贝构建产物到根目录')
 run('cp docs/.vitepress/dist/* ./', check=True)
-run('rm docs -r')
+run('rm docs -r',check=True)
 
 print('提交 stash')
 run('git commit -m "Update"', check=True)
