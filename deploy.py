@@ -29,7 +29,7 @@ run('git clean -fdx', check=True)
 # run('git add .')
 
 print('拷贝构建产物到根目录')
-run('cp docs/.vitepress/dist/* ./', check=True)
+run('cp docs\\.vitepress\\dist\\* .\\', check=True)
 run('rm docs -r',check=True)
 
 print('提交 stash')
