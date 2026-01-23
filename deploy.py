@@ -29,8 +29,8 @@ run('git clean -fdx', check=True)
 # run('git add .')
 
 print('拷贝构建产物到根目录')
-run('cp docs\\.vitepress\\dist\\* .\\', check=True)
-run('rm docs -r',check=True)
+run('cp docs\\.vitepress\\dist\\* .\\', check=True, shell=True)
+run('rm docs -r',check=True, shell=True)
 
 print('提交 stash')
 run('git commit -m "Update"', check=True)
