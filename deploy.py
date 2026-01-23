@@ -33,6 +33,7 @@ run('cp docs\\.vitepress\\dist\\* .\\', check=True, shell=True)
 run('rm docs -r',check=True, shell=True)
 
 print('提交 stash')
+run('git add .', check=True)
 run('git commit -m "Update"', check=True)
 
 print('push 到远程仓库')
