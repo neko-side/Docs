@@ -2,9 +2,7 @@
 
 这是我的[个人文档](https://nekoside.com/docs/)
 
-部署在我的[博客](https://nekoside.com/)下
-
-该文档作为[静态页面](https://www.halo.run/store/apps/app-gFkMn)部署在 [Halo](https://github.com/halo-dev/halo) 站点下
+作为[静态页面](https://www.halo.run/store/apps/app-gFkMn)部署在 [Halo](https://github.com/halo-dev/halo) 博客站点下
 
 # Installation
 
