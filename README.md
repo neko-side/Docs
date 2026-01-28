@@ -4,6 +4,7 @@
 
 部署在我的[博客](https://nekoside.com/)下
 
+该文档作为[静态页面](https://www.halo.run/store/apps/app-gFkMn)部署在 [Halo](https://github.com/halo-dev/halo) 站点下
 
 # Installation
 
@@ -24,5 +25,7 @@ pnpm build
 ```
 
 # Deploy
+
+本项目使用 [halo-static-pages-deploy-cli](https://www.npmjs.com/package/halo-static-pages-deploy-cli) 进行部署
 
 填写 `_settings.toml` 后重命名为 `settings.toml` 再运行 `deploy.py` 即可.
