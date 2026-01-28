@@ -23,6 +23,6 @@ pnpm dev
 pnpm build
 ```
 
-#Deploy
+# Deploy
 
 填写 `_settings.toml` 后重命名为 `settings.toml` 再运行 `deploy.py` 即可.
