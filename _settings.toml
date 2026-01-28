@@ -1,0 +1,9 @@
+[info]
+# halo 站点网址，最后不要加 /
+website = 'https://.com'
+
+# 静态页面的 id
+id = 'project-'
+
+# halo 个人 KEY
+key = 'pat_'
