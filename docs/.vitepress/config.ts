@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-    title: "My Docs",
+    title: "nekoside",
     description: "",
-    base: "/IDE-Shortcuts/"
+    base: "/docs/"
 })
