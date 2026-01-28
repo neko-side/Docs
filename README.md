@@ -1,8 +1,14 @@
 # Documentation
 
-这是我的[个人文档](https://nekoside.com/docs/)
+这是我的个人文档
 
 作为[静态页面](https://www.halo.run/store/apps/app-gFkMn)部署在 [Halo](https://github.com/halo-dev/halo) 博客站点下
+
+博客地址:
+https://nekoside.com/
+
+文档地址:
+https://nekoside.com/docs/
 
 # Installation
 
