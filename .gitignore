@@ -2,6 +2,7 @@ node_modules/
 .vscode/
 .idea/
 dist/
+cache/
 
 .DS_Store
 settings.toml
