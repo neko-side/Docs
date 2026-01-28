@@ -1,6 +1,6 @@
 # Documentation
 
-这是我的个人文档
+这是我的[个人文档](https://nekoside.com/docs/)
 
 部署在我的[博客](https://nekoside.com/)下
 
