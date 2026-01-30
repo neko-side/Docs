@@ -5,11 +5,9 @@ export default defineConfig({
 	description: "",
 	base: "/docs/",
 	themeConfig: {
-		sidebar: [
-			{
-
-			}
-		],
+		sidebar: {
+			'/IDE-Shortcuts/': { base: '/IDE-Shortcuts/', items: sideBarIDE() }
+		},
 		siteTitle: false,
 		nav: [
 			{
@@ -30,10 +28,10 @@ function sideBarIDE() {
 	return [
 		{
 			items: [
-				{ text: 'File', link: '/IDE-Shortcuts/File/' },
-				{ text: 'Tools', link: '/IDE-Shortcuts/Tools/' },
-				{ text: 'Code', link: '/IDE-Shortcuts/Code/' },
-				{ text: 'Project', link: '/IDE-Shortcuts/Project/' }
+				{ text: 'File', link: '/File/' },
+				{ text: 'Tools', link: '/Tools/' },
+				{ text: 'Code', link: '/Code/' },
+				{ text: 'Project', link: '/Project/' }
 			]
 		}
 	]
