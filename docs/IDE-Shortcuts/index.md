@@ -1,25 +1,25 @@
 # IDE-Shortcuts
 
-## 打开终端
+## Terminal(Change Focus)
 - Windows
     - `Ctrl + ~`
 - macOS
     - `Cmd + ~`
 
-## 打开设置
+## Preference
 - Windows
     - `Ctrl + ,`
 - macOS
     - `Cmd + ,`
 
-## 快捷键设置
+## KeyMap
 
 - Windows
   - `Ctrl + Alt + S`
 - macOS
   - `Cmd + Alt + S`
 
-## 运行
+## Run
 
 - Windows
   - `F5`
@@ -40,9 +40,51 @@
 - macOS
   - `F7`
 
-## 切换 Tab
+## Change Tab
 
 - Windows
   - `Ctrl + Num`
 - macOS
   - `Cmd + Num`
+
+## Hover Info
+
+- Windows
+  - `F1`
+- macOS
+  - `F1`
+
+## Rename
+
+- Windows
+  - `F2`
+- macOS
+  - `F2`
+
+## Explorer
+
+- Windows
+  - `Ctrl + Shift + E`
+- macOS
+  - `Cmd + Shift + E`
+
+## VCS
+
+- Windows
+  - `Ctrl + Shift + G`
+- macOS
+  - `Cmd + Shift + G`
+
+## Search In File
+
+- Windows
+  - `Ctrl + F`
+- macOS
+  - `Cmd + F`
+
+## Search In Project
+
+- Windows
+  - `Ctrl + Shift + F`
+- macOS
+  - `Cmd + Shift + F`
