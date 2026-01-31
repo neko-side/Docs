@@ -54,3 +54,8 @@
   - `Ctrl + Alt + S`
 - macOS
   - `Cmd + Alt + S`
+
+## Code Actions
+
+- Windows
+  - `Alt + Enter`
